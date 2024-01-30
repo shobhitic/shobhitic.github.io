@@ -4,6 +4,6 @@
 
 layout: page
 ---
-Hello 👋!
+👋, I am Shobhit. I run a software development agency.
 
-I am Shobhit. I run a software development agency!
+I write my thoughts [here]({% link posts.md %}).
