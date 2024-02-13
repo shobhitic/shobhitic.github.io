@@ -9,7 +9,7 @@ Today, I can't focus on any work for more than 5 minutes. I get an urge to check
 
 This keeps breaking my flow, making it hard to do any meaningful knowledge work.
 
-Even writing this essay has been a very difficult thing to keep focused.
+Even writing this essay has been a very difficult thing!
 
 This is what happens when your attention span is very small:
 
