@@ -19,9 +19,9 @@ This is what happens when your attention span is very small:
 
 People with higher attention span will learn more, retain more, and get more done.
 
-They can also focus better on task at hand as a part of their mind is not occupied with other things.
+They can also focus better on task at hand, as a part of their mind is not occupied with other things.
 
-If there's one thing you want to improve about yourself, start here. Improve your attention span. Learn to be bored. Seek it, handle it. If you get comfortable with it, it makes you much better than any of the competition over the long period.
+If there's one thing you want to improve about yourself, start here. Improve your attention span. Learn to be bored. Seek it, handle it. If you get comfortable with it, it makes you much better than any of your competition over time.
 
 How to improve it?
 
