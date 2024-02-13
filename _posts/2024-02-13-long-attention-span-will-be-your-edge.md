@@ -11,13 +11,11 @@ This keeps breaking my flow, making it hard to do any meaningful knowledge work.
 
 Even writing this essay has been a very difficult thing to keep focused.
 
-This is what happens when your attention span is very small.
+This is what happens when your attention span is very small:
 
-You get bored reading any text longer than a page.
-
-You're distracted while watching any educational video.
-
-You're thinking of weird random things when you should be working.
+* You get bored reading any text longer than a page.
+* You're distracted while watching any educational video.
+* You're thinking of weird random things when you should be working.
 
 People with higher attention span will learn more, retain more, and get more done.
 
