@@ -2,7 +2,7 @@
 layout: post
 title: Docker-pilled
 date:   2024-01-31 04:20:21 +0530
-categories: dev
+categories: development
 ---
 
 After trying to learn Docker 5 times, I finally understood it enough to make sense of the whole thing.
