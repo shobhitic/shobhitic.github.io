@@ -15,7 +15,7 @@ These are terrible numbers, but why does it happen?
 
 In my experience, this is not something that can be blamed entirely on developers!
 
-Marketing teams love to track everything, and that requires a lot of JS to be loaded. Marketing teams generally ask you to install Google Tag Manager so they can play around with various scripts that help them achieve higher conversion (via popup dialog boxes, subscription boxes, user analytics, etc.).
+When marketing, we love to track everything, and that requires a lot of JS to be loaded. Marketing teams generally ask you to install Google Tag Manager so they can play around with various scripts that help them achieve higher conversion (via popup dialog boxes, subscription boxes, user analytics, etc.).
 
 I am mostly positive that they're aware that this makes the site load slow, but this is a tradeoff they're making, presumably via data.
 
