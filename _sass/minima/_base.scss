@@ -28,7 +28,14 @@ body {
   flex-direction: column;
 }
 
-
+hr {
+  max-width: 50%;
+  min-width: 100px;
+  margin: 0px auto;
+  background-color: $brand-color;
+  height: 1px;
+  border: 0;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
