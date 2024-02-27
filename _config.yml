@@ -31,8 +31,13 @@ github_username:  shobhitic
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 permalink: /:title
+
+author:
+  twitter: benbalter
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
