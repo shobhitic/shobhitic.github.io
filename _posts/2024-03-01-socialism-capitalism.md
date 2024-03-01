@@ -5,11 +5,11 @@ date: 2024-03-01 23:36 +0530
 categories: general
 ---
 
-I've seen a pattern with founders around me. Don't want to throw shade on anyone particular because this is a cultural thing rather than a few, so don't think that I have someone specific in mind, but rather the archetype of me and people around me.
+I've seen a pattern with founders around me, here in India. Don't want to throw shade on anyone particular because this is a cultural thing rather than a few, so don't think that I have someone specific in mind, but rather the archetype of me and people around me.
 
 They want government intervention in the things that they buy, but hate any kind of intervention in things they sell.
 
-In 2021, a post on twitter wanted government to [set MRP on salaries](https://twitter.com/shobhitic/status/1413541904818610183) because developers weren't joining as they were getting better offers from different companies.
+In 2021, a post on twitter wanted government to [set Maximum cap (MRP) on salaries](https://twitter.com/shobhitic/status/1413541904818610183) because developers weren't joining as they were getting better offers from different companies.
 
 Most of the non-healthcare founders I see are celebrating that Supreme Court has asked Central Govt to [set Standard Procedure Rates](https://twitter.com/sonalbhutra/status/1763399134797607050) for hospitals.
 
@@ -28,3 +28,7 @@ Yes, this will increase CAC, but if you want to use someone's ecosystem, you wil
 International apps of similar nature of the apps that have been banned use the in-app billing experience. Why will we get a different treatment?
 
 We as a culture need to reflect and improve ourselves to be able to fight with global competition. These kind of things really do hold us back.
+
+---
+
+[Comments on Hacker News](https://news.ycombinator.com/item?id=39565998)
