@@ -34,7 +34,7 @@ plugins:
   - jekyll-seo-tag
 
 permalink: /:title
-
+show_excerpts: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

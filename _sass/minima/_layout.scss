@@ -194,6 +194,10 @@
 
   > li {
     margin-bottom: $spacing-unit;
+
+    > span.post-meta {
+      font-size: $small-font-size / 1.2;
+    }
   }
 }
 
@@ -205,6 +209,7 @@
 .post-link {
   display: block;
   @include relative-font-size(1.2);
+  line-height: 1rem;
 }
 
 
