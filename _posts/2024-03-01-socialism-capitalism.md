@@ -28,7 +28,3 @@ Yes, this will increase CAC, but if you want to use someone's ecosystem, you wil
 International apps of similar nature of the apps that have been banned use the in-app billing experience. Why will we get a different treatment?
 
 We as a culture need to reflect and improve ourselves to be able to fight with global competition. These kind of things really do hold us back.
-
----
-
-[Comments on Hacker News](https://news.ycombinator.com/item?id=39565998)
