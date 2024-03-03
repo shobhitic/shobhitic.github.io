@@ -6,4 +6,13 @@ layout: page
 ---
 👋, I am Shobhit. I run a software development agency.
 
-I write my thoughts [here]({% link posts.md %}).
+We help companies build wonderful software products.
+
+If you're looking for a capable team to build out your next product, or improve the current one, please [schedule a call with me](https://calendly.com/shobhitoak/30min) or get in touch over at [LinkedIn](https://www.linkedin.com/in/shobhitic/)
+
+
+---
+
+**I write posts on this site [here]({% link posts.md %}).**
+
+If you'd like to be notified of new posts, subscribe to this [WhatsApp channel](https://whatsapp.com/channel/0029VaSvBi3LSmbjcJK7sz1k). Your phone number will ***not*** be shared with me, or anyone in the channel.
