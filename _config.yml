@@ -27,14 +27,19 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shobhitic
 github_username:  shobhitic
 
+url: "https://shobhitic.com" # the base hostname & protocol for your site
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 permalink: /:title
 show_excerpts: false
+
+timezone: Asia/Kolkata
 
 # Exclude from processing.
 # The following items will not be processed, by default.
