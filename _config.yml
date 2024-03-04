@@ -35,6 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-target-blank
 
 permalink: /:title
 show_excerpts: false
