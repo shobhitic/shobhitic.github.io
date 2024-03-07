@@ -9,7 +9,7 @@ I had a very hard time reading books from 2020 onwards. I just couldn't focus en
 
 I was always distracted, and kept getting lost in my thoughts. This made me read the words, but not register them at all, and suddenly I had no context on what I was reading.
 
-Sometimes trying to find the meaning of the word on my phone distracted me. Sometimes trying to understand a sentence confused me..
+Sometimes trying to find the meaning of the word on my phone distracted me. Sometimes trying to understand a sentence confused me.
 
 These were both fiction and non-fiction books, but primarily non-fiction.
 
