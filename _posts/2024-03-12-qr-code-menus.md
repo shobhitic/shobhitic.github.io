@@ -2,6 +2,7 @@
 layout: post
 title: In defense of QR code menu
 date: 2024-03-12 01:47 +0530
+categories: opinion
 ---
 
 There are bunch of people out there who **HATE** the QR code menus in restaurants and cafes.
