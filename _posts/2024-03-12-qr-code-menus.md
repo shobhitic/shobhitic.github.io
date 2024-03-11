@@ -27,6 +27,7 @@ I am ***NOT*** one of them. I kinda like them. Let me share why :-
 I even try to find the restaurant on delivery apps to be able to use the digital menu to find what I want to eat, at places that don't have QR code menu.
 
 It is also beneficial for restaurants. They can change menu swiftly, change prices, collect customer information, etc.
+
 #### **What do I not like?**
 
 Places that make you download a PDF of 50MB from Google drive, which is a scanned copy of their physical menu, and you need to pinch zoom the PDF to find anything.
