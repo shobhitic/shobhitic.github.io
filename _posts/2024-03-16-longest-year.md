@@ -2,6 +2,7 @@
 layout: post
 title: Longest year in human history
 date: 2024-03-16 01:49 +0530
+categories: general
 ---
 
 I was just casually thinking about the Roman Empire (as one usually does).
