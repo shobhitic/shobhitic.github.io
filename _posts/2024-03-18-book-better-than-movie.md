@@ -25,7 +25,7 @@ I found a bunch of other vocal fans saying that _this was shit_ as well.
 
 But one of my friend who hadn't seen the original The Office loved it. She had no preconceptions, so she just took everything at face value, and couldn't stop binging it. It was like me watching Pokemon in Hindi, and loving it!
 
-Last year I saw the One Punch live action series. I hadn't gone through the manga or anime before that. And I loved it; The whole series had me hooked!
+Last year I saw the One Piece live action series. I hadn't gone through the manga or anime before that. And I loved it; The whole series had me hooked!
 
 Then I saw some chatter on twitter where people kept bashing this series. They said it's not as good as manga, or anime.
 
