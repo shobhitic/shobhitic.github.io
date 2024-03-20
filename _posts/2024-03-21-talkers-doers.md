@@ -13,7 +13,7 @@ But when the artists themselves meet up, they tend to talk about more practical 
 
 Instead of philosophizing, they're more interested in where to find good deals on basic supplies like turpentine, which is used to clean brushes and thin paint.
 
-> *“When art critics get together they talk about Form and Structure and Meaning. When artists get together they talk about where you can buy cheap turpentine.” – Picasso (via [Ribbonfarm](http://www.ribbonfarm.com/2010/03/18/the-turpentine-effect/))*
+> *“When art critics get together they talk about Form and Structure and Meaning. When artists get together they talk about where you can buy cheap turpentine.” – Picasso (via [Ribbonfarm](https://www.ribbonfarm.com/2010/03/18/the-turpentine-effect/))*
 
 Artists in this realm are more interested in iterating on their work, while critics, or people who just talk, are looking to find meaning, where it might not exist.
 
