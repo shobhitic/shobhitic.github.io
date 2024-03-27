@@ -2,6 +2,7 @@
 layout: post
 title: Vision comes later
 date: 2024-03-26 01:45 +0530
+categories: business
 ---
 
 Most people think that entrepreneurs think of a vision first, and then figure out the correct strategy to make it happen. This is something that's very hard to accomplish, and very few are able to actually make it happen this way.
