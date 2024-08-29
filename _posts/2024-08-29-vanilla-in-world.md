@@ -4,7 +4,7 @@ title: The world wants you to be vanilla
 date: 2024-08-29 09:38 +0530
 ---
 
-The world wants you to fit into a mold—standardized, optimized, and ultimately, expendable. They want to treat you like a lego brick.
+The world wants you to fit into a mould—standardized, optimized, and ultimately, expendable. They want to treat you like a lego brick.
 
 Why? Because the world is optimizing for itself. It’s easier for companies, institutions, and even societal structures to deal with people who are predictable, who don’t disrupt the status quo, who follow templates and stick to the script.
 
