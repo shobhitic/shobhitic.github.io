@@ -21,11 +21,11 @@
 title: Shobhit Bakliwal
 email: shobhit@hey.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Developer and consultant running businesses on internet.
+  Software Dev, building a software development agency.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shobhitic
-github_username:  shobhitic
+# github_username:  shobhitic
 
 url: "https://shobhitic.com" # the base hostname & protocol for your site
 
