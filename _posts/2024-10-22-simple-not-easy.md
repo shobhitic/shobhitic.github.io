@@ -15,10 +15,6 @@ Simple.
 
 But anyone who's tried to lose weight knows it's not easy. You have to resist cravings, stick to a plan, and push through even when you have the ability to get that triple scoop sundae delivered in less than 10 minutes at 2AM.
 
-Same thing with sales. The process of making a sale is simple: find someone with a problem, offer to solve that problem, agree on the price and close the sale.
-
-But ask any salesperson—it's tough. You face rejection daily, you need to "nurture" your "leads", and you have to keep going even when the numbers aren't coming in.
-
 Same thing with saving money. The process is simple: spend less than you earn, and you'll save.
 
 But is it easy to not spend money that you have? Fuck no.
