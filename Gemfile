@@ -39,6 +39,8 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem 'jekyll-compose', group: [:development]
 
 
+
+# adding dependencies: https://medium.marktinderholt.com/ruby-3-4-0-vs-my-jekyll-workflow-how-ignored-warnings-came-back-to-bite-me-1489883a9599s
 gem 'csv'
 gem 'base64'
 gem 'bigdecimal'
