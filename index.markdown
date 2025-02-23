@@ -15,4 +15,8 @@ If you're looking for a capable team to build out your next product, or improve 
 
 **I write posts on this site [here]({% link posts.md %}).**
 
-If you'd like to be notified of new posts, subscribe to this [WhatsApp channel](https://whatsapp.com/channel/0029VaSvBi3LSmbjcJK7sz1k). Your phone number will ***not*** be shared with me, or anyone in the channel.
+**I run a podcast that you can find [here](https://www.youtube.com/channel/UC7dyFXGXDbMYHxW-K1RHcOw/).**
+
+<!-- If you'd like to be notified of new posts, subscribe to this [WhatsApp channel](https://whatsapp.com/channel/0029VaSvBi3LSmbjcJK7sz1k). Your phone number will ***not*** be shared with me, or anyone in the channel. -->
+
+If you'd like to be notified of new posts, subscribe to the newsletter through the form below.
