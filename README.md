@@ -2,6 +2,12 @@
 
 This a personal site. Built using jekyll.
 
+To create a new post:
+
+```bash
+bundle exec jekyll post "POST_TITLE"
+```
+
 To run a server:
 
 ```bash
