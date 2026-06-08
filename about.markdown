@@ -6,7 +6,7 @@ permalink: /about/
 
 Mostly active on twitter [@shobhitic](https://twitter.com/shobhitic).
 
-My company is [Indusbit (also known as OakRev)](https://indusbit.in/).
+My company is [Oakrev](https://oakrev.com/).
 
 On the side, I have bunch of projects.
 
